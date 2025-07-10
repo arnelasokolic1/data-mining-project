@@ -2,7 +2,7 @@
 
 This project analyzes the IMDB Top 1000 Movies dataset to extract meaningful insights and uncover patterns related to movie ratings, genres, actors, and directors. The dataset was sourced from Kaggle and contains detailed information such as movie titles, release years, genres, ratings, cast, and financial data.
 
-## About project
+## About Project
 
 - Loaded and explored the dataset using pandas.
 - Performed data cleaning and preprocessing to prepare the data for analysis.
@@ -17,4 +17,3 @@ This project analyzes the IMDB Top 1000 Movies dataset to extract meaningful ins
 
 
 
----
